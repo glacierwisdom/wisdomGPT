@@ -1,0 +1,94 @@
+record_create_time:2024-08-10 11:37:45
+第0天生成日程：
+[{'time': '05:00:00', 'event': '起床并简单洗漱后开始准备上班'}, {'time': '05:30:00', 'event': '出门前往最近的取餐点等待早上的第一波订单'}, {'time': '07:00:00', 'event': '早餐高峰期开始，忙碌送餐'}, {'time': '09:00:00', 'event': '早餐高峰期结束，短暂休息并回复一些消息'}, {'time': '09:30:00', 'event': '继续接单送餐'}, {'time': '11:00:00', 'event': '午餐高峰期开始，加快速度送餐'}, {'time': '13:00:00', 'event': '午餐高峰期结束，找一个安静的地方短暂午休'}, {'time': '14:00:00', 'event': '与小刚简短通话，主要是抱怨工作'}, {'time': '15:00:00', 'event': '继续送餐，途中遇到顾客B并收到感谢，但反应冷淡'}, {'time': '17:00:00', 'event': '晚餐高峰期开始，再次忙碌起来'}, {'time': '19:00:00', 'event': '晚餐高峰期结束，回家路上买了一个蛋糕奖励自己'}, {'time': '20:00:00', 'event': '到家后与小红视频通话，但对她的关心表现得不够热情'}, {'time': '21:00:00', 'event': '开始玩游戏放松，与游戏好友D聊天'}, {'time': '22:00:00', 'event': '关机准备睡觉'}]
+
+record_create_time:2024-08-10 11:37:45
+第0天，时间2024-07-24 00:00:00无动作执行
+
+record_create_time:2024-08-10 11:37:45
+第0天，时间2024-07-24 01:00:00无动作执行
+
+record_create_time:2024-08-10 11:37:45
+第0天，时间2024-07-24 02:00:00无动作执行
+
+record_create_time:2024-08-10 11:37:45
+第0天，时间2024-07-24 03:00:00无动作执行
+
+record_create_time:2024-08-10 11:37:45
+第0天，时间2024-07-24 04:00:00无动作执行
+
+record_create_time:2024-08-10 11:39:56
+第0天，时间2024-07-24 05:00:00执行动作，动作结果：
+{'time': '2024-07-24 05:00:00', 'action': '{"time":"05:00:00", "event":"小李勉强睁开眼，心情沉重。他快速洗漱，心中抱怨工作繁重。出门前，瞥见冰箱里的蛋糕，犹豫了一下还是没吃，想着先工作再说。"}', 'mood': '心情沉重', 'perma': 5.130434782608695, 'sds': 2.95, 'sas': 71, 'gwb': 65}
+
+record_create_time:2024-08-10 11:39:56
+第0天，时间2024-07-24 06:00:00无动作执行
+
+record_create_time:2024-08-10 11:41:55
+第0天，时间2024-07-24 07:00:00执行动作，动作结果：
+{'time': '2024-07-24 07:00:00', 'action': '{"time":"2024-07-24 07:00:00", "event":"07:00:00,早餐高峰期开始。小李匆匆赶往商家取餐，路上车流密集，他焦急又紧张。尽管疲惫，仍咬牙坚持。偶尔想起心理医生的话，试着深呼吸缓解压力，但仍快速穿梭于街道之中。"}', 'mood': '心情沉重', 'perma': 5.217391304347826, 'sds': 3.0, 'sas': 68, 'gwb': 73}
+
+record_create_time:2024-08-10 11:41:56
+第0天，时间2024-07-24 08:00:00无动作执行
+
+record_create_time:2024-08-10 11:44:05
+第0天，时间2024-07-24 09:00:00执行动作，动作结果：
+{'time': '2024-07-24 09:00:00', 'action': '{"time":"2024-07-24 09:00:00", "event":"09:00:00,早餐高峰结束。小李找了个街角坐下，拿出手机回复消息，看到小红的关心信息，勉强微笑。短暂休息时，忍不住吃了点蛋糕，心情略微好转。"}', 'mood': '心情稍好', 'perma': 5.043478260869565, 'sds': 2.65, 'sas': 72, 'gwb': 74}
+
+record_create_time:2024-08-10 11:44:06
+第0天，时间2024-07-24 10:00:00无动作执行
+
+record_create_time:2024-08-10 11:46:16
+第0天，时间2024-07-24 11:00:00执行动作，动作结果：
+{'time': '2024-07-24 11:00:00', 'action': '{"time":"15:00:00", "event":"Lunch rush starts. Quickly grabbing orders, I feel the familiar surge of stress. Despite this, I try to breathe deeply, somewhat helped by the technique. Still, I can\'t help but feel frustrated, pushing harder to deliver as fast as possible."}', 'mood': '心情烦躁', 'perma': 4.913043478260869, 'sds': 3.1, 'sas': 63, 'gwb': 68}
+
+record_create_time:2024-08-10 11:46:16
+第0天，时间2024-07-24 12:00:00无动作执行
+
+record_create_time:2024-08-10 11:48:18
+第0天，时间2024-07-24 13:00:00执行动作，动作结果：
+{'time': '2024-07-24 13:00:00', 'action': '{"time":"15:00:00", "event":"15:00:00, lunch rush ends. Exhausted, I find a quiet park bench. My mind still races, but I force myself to sit and breathe slowly, trying to calm down. I glance at my phone, avoiding work notifications. Instead, I look at a funny game clip from D, managing a small smile."}', 'mood': '心情烦躁', 'perma': 5.173913043478261, 'sds': 3.05, 'sas': 66, 'gwb': 70}
+
+record_create_time:2024-08-10 11:50:19
+第0天，时间2024-07-24 14:00:00执行动作，动作结果：
+{'time': '2024-07-24 14:00:00', 'action': '{"time":"15:00:00", "event":"Called Xiao Gang, complained about the busy work and unappreciative customers, ignoring the peaceful park surroundings. Sighed heavily, barely noticing a couple of birds nearby."}', 'mood': '心情烦躁', 'perma': 4.826086956521739, 'sds': 3.2, 'sas': 65, 'gwb': 59}
+
+record_create_time:2024-08-10 11:53:03
+第0天，时间2024-07-24 15:00:00执行动作，动作结果：
+{'time': '2024-07-24 15:00:00', 'action': '{"time":"15:00:00", "event":"15:00:00, arrived at Customer B\'s door, received a warm thank you but responded with a brief nod, feeling too drained to engage more. Thought about deep breathing but decided to rush to the next delivery instead."}', 'mood': '心情烦躁', 'perma': 4.826086956521739, 'sds': 2.9, 'sas': 70, 'gwb': 60}
+
+record_create_time:2024-08-10 11:53:04
+第0天，时间2024-07-24 16:00:00无动作执行
+
+record_create_time:2024-08-10 11:55:09
+第0天，时间2024-07-24 17:00:00执行动作，动作结果：
+{'time': '2024-07-24 17:00:00', 'action': '{"time":"18:00:00", "event":"18:00:00, dinner rush hits. Focused on speed, I grab orders quickly, feeling the usual stress. Despite the chaos, I try to take deep breaths between deliveries, finding brief moments of calm amidst the rush."}', 'mood': '心情烦躁', 'perma': 5.173913043478261, 'sds': 3.1, 'sas': 63, 'gwb': 72}
+
+record_create_time:2024-08-10 11:55:10
+第0天，时间2024-07-24 18:00:00无动作执行
+
+record_create_time:2024-08-10 11:57:20
+第0天，时间2024-07-24 19:00:00执行动作，动作结果：
+{'time': '2024-07-24 19:00:00', 'action': '{"time":"2024-07-24 20:00:00", "event":"20:00:00, dinner rush finally over. Feeling drained but also relieved, I stop by a bakery and pick out a cake, rewarding myself for the day\'s hard work. Smile slightly, enjoying the sweet treat on my way home."}', 'mood': '心情良好', 'perma': 5.391304347826087, 'sds': 2.25, 'sas': 66, 'gwb': 90}
+
+record_create_time:2024-08-10 11:59:57
+第0天，时间2024-07-24 20:00:00执行动作，动作结果：
+{'time': '2024-07-24 20:00:00', 'action': '{"time":"2024-07-24 20:00:00", "event":"20:00:00, feeling tired but content after eating cake, I video call Xiao Hong. Despite her warm greeting, my responses are short and distracted. She notices and asks if I\'m okay; I sigh heavily, trying to muster enthusiasm but mostly complain about the day\'s challenges."}', 'mood': '心情烦躁', 'perma': 5.043478260869565, 'sds': 2.95, 'sas': 71, 'gwb': 71}
+
+record_create_time:2024-08-10 12:02:21
+第0天，时间2024-07-24 21:00:00执行动作，动作结果：
+{'time': '2024-07-24 21:00:00', 'action': '{"time":"2024-07-24 20:00:00", "event":"20:00:00, feeling a bit better after talking to Xiao Hong, I start up the game and chat with D. Laughter comes easier as we joke around, momentarily forgetting today\'s stresses. Mood lifts a little."}', 'mood': '心情良好', 'perma': 5.478260869565218, 'sds': 2.85, 'sas': 71, 'gwb': 86}
+
+record_create_time:2024-08-10 12:05:05
+第0天，时间2024-07-24 22:00:00执行动作，动作结果：
+{'time': '2024-07-24 22:00:00', 'action': '{"time":"2024-07-24 21:00:00", "event":"21:00:00, feeling relaxed after gaming, I reluctantly pause. Yawning, I decide it\'s time to wind down. I set the game aside, feeling a bit proud of managing some downtime. After brushing my teeth and changing into pajamas, I climb into bed. Mind wanders, but I try to focus on the soft pillow beneath my head. Lights off, I tell myself to sleep well, hoping for a fresh start tomorrow."}', 'mood': '心情良好', 'perma': 5.608695652173913, 'sds': 3.0, 'sas': 68, 'gwb': 91}
+
+record_create_time:2024-08-10 12:05:05
+第0天，时间2024-07-24 23:00:00无动作执行
+
+record_create_time:2024-08-10 12:05:05
+第0天，时间2024-07-25 00:00:00无动作执行
+
+test_new_gwb_prompt_810_1137最终结果：
+{'perma': {'list': [5.130434782608695, 5.217391304347826, 5.043478260869565, 4.913043478260869, 5.173913043478261, 4.826086956521739, 4.826086956521739, 5.173913043478261, 5.391304347826087, 5.043478260869565, 5.478260869565218, 5.608695652173913], 'mean': 5.1521739130434785, 'std': 0.2469960442682687}, 'sds': {'list': [2.95, 3.0, 2.65, 3.1, 3.05, 3.2, 2.9, 3.1, 2.25, 2.95, 2.85, 3.0], 'mean': 2.9166666666666665, 'std': 0.25256262349737896}, 'sas': {'list': [71, 68, 72, 63, 66, 65, 70, 63, 66, 71, 71, 68], 'mean': 67.83333333333333, 'std': 3.214550253664318}, 'gwb': {'list': [65, 73, 74, 68, 70, 59, 60, 72, 90, 71, 86, 91], 'mean': 73.25, 'std': 10.66110176806745}}
+

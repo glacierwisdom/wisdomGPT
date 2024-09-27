@@ -1,0 +1,9 @@
+用于修正json输出格式
+!<INPUT 0>! 存在错误的json输出
+<commentblockmarker>###</commentblockmarker>
+!<INPUT 0>!
+
+任务: 
+上面的json格式输出存在格式错误，请你帮我修正他，注意只需要修正格式，不要改变内容！
+提示：
+1、通常json格式错误是{}没有正常闭合，比如说可能某个地方缺少了一个}

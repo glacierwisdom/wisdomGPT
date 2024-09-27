@@ -1,0 +1,29 @@
+用于更新医生好的医疗记忆的模板
+!<INPUT 0>! 时间
+!<INPUT 1>! 医生提的问题
+!<INPUT 2>! 病人回复
+!<INPUT 3>! 医生提的建议
+!<INPUT 4>! 病人是否接受建议以及原因
+!<INPUT 5>! 治疗前perma
+!<INPUT 6>! 治疗前情绪状态
+!<INPUT 7>! 治疗后perma
+!<INPUT 8>! 更新病人的医疗记忆
+
+<commentblockmarker>###</commentblockmarker>
+以下是一条在!<INPUT 0>!的心理干预相关记录：
+
+心理干预过程：
+1.医生提的问题：
+!<INPUT 1>!
+2.回复：
+!<INPUT 2>!
+3.医生提的建议：
+!<INPUT 3>!
+4.是否接受建议以及原因：
+!<INPUT 4>!
+
+干预效果：
+干预前perma值：!<INPUT 5>!
+干预前情绪状态：!<INPUT 6>! 
+干预后perma：!<INPUT 7>! 
+干预后情绪状态：!<INPUT 8>! 
