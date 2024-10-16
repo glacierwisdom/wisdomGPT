@@ -14,11 +14,11 @@ wisdomGPT
 
 ## Project Ongoing
 
-- [x] ##### 多智能体模拟心理咨询 
+- [x] **多智能体模拟心理咨询** 
 
   *A_Simulated_Well-being_Ecosystem_Featuring_Positive_Nudge_Agents*，2025 ICRA 在投，代码仓库见 *aitown-env3-upload*，<a href="aitown-evo3-upload/readme.md" target="_blank">ReadMe</a>
 
-- [x] ##### 让大模型更了解心理（基于 [Qwen2.5-32B](https://huggingface.co/Qwen/Qwen2.5-32B-Instruct) 的微调方案）
+- [x] **让大模型更了解心理**（基于 [Qwen2.5-32B](https://huggingface.co/Qwen/Qwen2.5-32B-Instruct) 的微调方案）
 
   *微调结果* ， <a href="sft_0926_lr5e-5/README.md" target="_blank">ReadMe</a>
 
