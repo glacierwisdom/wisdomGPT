@@ -9,8 +9,13 @@ wisdomGPT
 </p>
 
 
+[![license](https://img.shields.io/badge/license-Apache%202.0-red.svg)](https://github.com/glacierwisdom/wisdomGPT/blob/main/LICENSE)
+[![python](https://img.shields.io/badge/python-3.8+-aff.svg)](https://github.com/glacierwisdom/wisdomGPT)
+[![contributors](https://img.shields.io/github/contributors/glacierwisdom/wisdomGPT?color=9ea)](https://github.com/glacierwisdom/wisdomGPT/graphs/contributors)
+[![commits](https://img.shields.io/github/commit-activity/m/glacierwisdom/wisdomGPT?color=3af)](https://github.com/glacierwisdom/wisdomGPT/commits)
+[![issues](https://img.shields.io/github/issues/glacierwisdom/wisdomGPT?color=9cc)](https://github.com/glacierwisdom/wisdomGPT/issues)
+[![stars](https://img.shields.io/github/stars/glacierwisdom/wisdomGPT?color=ccf)](https://github.com/glacierwisdom/wisdomGPT/stargazers)
 
-[![img](https://camo.githubusercontent.com/cb8349ea1435fc55c3d3069583d60a799a99e17f22de0014a7a0aaa6dc769102/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d417061636865253230322d7265642e737667)](https://github.com/scutcyr/SoulChat/blob/main/LICENSE) [![img](https://camo.githubusercontent.com/5cf5081e3d9dc7612f1c0ed88f2c9e7e783a388242d5acdd998ed6ff49500a78/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d332e382b2d6166662e737667)](https://github.com/scutcyr/SoulChat/blob/main) [![img](https://camo.githubusercontent.com/bd8f9816b7aaf22875471ceb341b343fcda0222a7c0dae850084ef1babf08381/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f736375746379722f536f756c436861743f636f6c6f723d396561)](https://github.com/scutcyr/SoulChat/graphs/contributors) [![img](https://camo.githubusercontent.com/08eb85ab7412d2837983792fa5cae949fe73ab54f0f3f39a6e06af1ba3bbe678/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6d6d69742d61637469766974792f6d2f736375746379722f536f756c436861743f636f6c6f723d336166)](https://github.com/scutcyr/SoulChat/commits) [![img](https://camo.githubusercontent.com/93489c5e750803447b83ff9719d96a60547e8b834e27a75498b57ad49bc12f14/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f736375746379722f536f756c436861743f636f6c6f723d396363)](https://github.com/scutcyr/SoulChat/issues) [![img](https://camo.githubusercontent.com/512f5d2eb2c77591dd673710e10ba2e24e25ed9af9810b9d45c60bc65a9ee6ba/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f736375746379722f536f756c436861743f636f6c6f723d636366)](https://github.com/glacierwisdom/wisdomGPT/stargazers)
 
 ## Project Ongoing
 
