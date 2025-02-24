@@ -32,14 +32,25 @@
 </p>
 
 ### 数据集
-#### i. 心理学伦理守则数据集
-- 🧠 **心理学伦理守则数据集**：该数据集包括心理学领域的伦理守则，帮助模型理解与伦理相关的咨询情境，提升其伦理判断能力。
+#### 💞i. 共情对话数据集
+**SoulChatCorpus**  
+![Dataset Preview](https://via.placeholder.com/600x200.png/CCCCCC?text=数据示例截图+请替换为真实URL)  
+- **内容**：120万混合单轮/多轮心理咨询对话（GPT-4增强生成）  
+- **核心价值**：  
+  • 单轮长文本：15万指令 → 50万专业回答  
+  • 多轮对话：100万轮次情景模拟  
+  • 统一指令格式：`用户：{query}\n心理咨询师：{response}`  
+- **学术支持**：  
+  📜 [EMNLP 2023 Findings论文](https://aclanthology.org/2023.findings-emnlp.83/)  
+- **资源获取**：  
+  🔗 [ModelScope数据集](https://www.modelscope.cn/datasets/YIRONGCHEN/SoulChatCorpus)  
+  💻 [项目源码仓库](https://github.com/scutcyr/SoulChat)
 
-#### ii. 对话数据集
-- 💬 **对话数据集**：该数据集包含大量心理健康对话数据，旨在为模型提供心理咨询相关的对话训练数据。
+#### 💬ii. 对话数据集
+-  **对话数据集**：该数据集包含大量心理健康对话数据，旨在为模型提供心理咨询相关的对话训练数据。
 
-#### iii. 情绪识别数据集
-- 😌 **情绪识别数据集**：用于提升模型识别情绪的能力，帮助模型更好地理解用户情绪并提供精准的反馈。
+#### 😌iii. 情绪识别数据集
+-  **情绪识别数据集**：用于提升模型识别情绪的能力，帮助模型更好地理解用户情绪并提供精准的反馈。
 
 #### iv. 其他数据集
 - 🌍 **The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models**，NeurIPS 2024 D&B Track 最佳论文，[[论文]](https://arxiv.org/abs/2404.16019)
