@@ -24,6 +24,7 @@
   本项目致力于基于大语言模型技术为心理健康领域提供创新解决方案，通过改进训练方法、使用特定数据集，提升大语言模型在心理咨询中的应用效果。
 </p>
 ### 数据集
+
 #### 💞 i. 共情对话数据集
 **SoulChatCorpus**  
 ![Dataset Preview]<img src="_DocumentRSS/SoulChatCorpus.png" width="1200">
