@@ -23,18 +23,10 @@
 <p align="center">
   本项目致力于基于大语言模型技术为心理健康领域提供创新解决方案，通过改进训练方法、使用特定数据集，提升大语言模型在心理咨询中的应用效果。
 </p>
-<p align="center">
-  <a href="https://your-project-link.com">快速体验</a>
-  ·
-  <a href="https://your-project-link.com/issues">报告问题</a>
-  ·
-  <a href="https://your-project-link.com/issues">提出建议</a>
-</p>
-
 ### 数据集
 #### 💞i. 共情对话数据集
 **SoulChatCorpus**  
-![Dataset Preview](https://via.placeholder.com/600x200.png/CCCCCC?text=数据示例截图+请替换为真实URL)  
+![Dataset Preview](_DocumentRSS/SoulChatCorpus.png)  
 - **内容**：120万混合单轮/多轮心理咨询对话（GPT-4增强生成）  
 - **核心价值**：  
   • 单轮长文本：15万指令 → 50万专业回答  
