@@ -134,7 +134,7 @@
 
 #### iv. 其他数据集
 **Chinese Psychological QA DataSet**  
-<img src="_DocumentRSS/" width="1200">
+<img src="_DocumentRSS/flyrae_Chinese Psychological QA DataSet.png" width="1200">
 - **内容概述**  
   包含 **102,845** 条社区问答对，涵盖婚姻、情感、心理等多领域问题，提供真实心理咨询场景数据。
 
