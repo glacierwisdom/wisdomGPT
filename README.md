@@ -95,6 +95,36 @@
 - **资源获取**  
   🔗 [项目地址](https://github.com/facebookresearch/EmpatheticDialogues)  
   📂 [数据集下载](https://hf-mirror.com/datasets/facebook/empathetic_dialogues)
+
+  **CPsyCounD**  
+<img src="_DocumentRSS/CPsyCounD.png width="1200">
+- **内容概述**  
+  包含 **3,134** 个多轮咨询对话，通过 Memo2Demo 方法生成，覆盖 **9** 个代表性主题和 **7** 种经典心理咨询流派。
+
+- **核心价值**  
+  ✅ **多轮对话**：真实模拟心理咨询场景，提供连贯对话数据  
+  ✅ **主题丰富**：涵盖个人成长、情绪压力、学业教育等 9 大主题  
+  ✅ **流派多样**：整合精神分析、认知行为、人本主义等 7 种咨询流派  
+  ✅ **高质量生成**：基于 Memo2Demo 方法，确保对话专业性与实用性
+
+- **数据统计**  
+  | 数据集 | 样本量 |  
+  |--------|--------|  
+  | 对话总数 | 3,134  |  
+  | 主题数量 | 9 种   |  
+  | 流派数量 | 7 种   |  
+
+  主题与流派示例：  
+  **主题**：`个人成长、情绪压力、学业教育、恋爱婚姻、家庭关系、人际关系、性心理、职业发展、心理疾病`  
+  **流派**：`精神分析、认知行为、人本主义、家庭治疗、后现代主义、综合流派、其他流派`
+
+- **学术支持**  
+  📜 [CPsyCoun 论文](https://arxiv.org/abs/2405.16433)  
+  *发表于 arXiv，提供多轮心理咨询对话生成的理论与方法*
+
+- **资源获取**  
+  🔗 [项目地址](https://github.com/CAS-SIAT-XinHai/CPsyCoun)  
+  📂 [数据集下载](https://huggingface.co/datasets/CAS-SIAT-XinHai/CPsyCoun)
 #### 💬ii. 对话数据集
 -  **对话数据集**：该数据集包含大量心理健康对话数据，旨在为模型提供心理咨询相关的对话训练数据。
 
