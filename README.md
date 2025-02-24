@@ -24,18 +24,26 @@
   本项目致力于基于大语言模型技术为心理健康领域提供创新解决方案，通过改进训练方法、使用特定数据集，提升大语言模型在心理咨询中的应用效果。
 </p>
 ### 数据集
-#### 💞i. 共情对话数据集
+#### 💞 i. 共情对话数据集
 **SoulChatCorpus**  
-![Dataset Preview](_DocumentRSS/SoulChatCorpus.png)
-- **内容**：120万混合单轮/多轮心理咨询对话（GPT-4增强生成）  
-- **核心价值**：  
-  • 单轮长文本：15万指令 → 50万专业回答  
-  • 多轮对话：100万轮次情景模拟  
-  • 统一指令格式：`用户：{query}\n心理咨询师：{response}`  
-- **学术支持**：  
+![Dataset Preview](_DocumentRSS/SoulChatCorpus.png)  
+*图：SoulChatCorpus数据集示例*
+
+- **内容概述**  
+  包含120万混合单轮/多轮心理咨询对话，由GPT-4增强生成，覆盖广泛心理咨询场景。
+
+- **核心价值**  
+  ✅ **单轮长文本**：15万指令 → 50万专业回答，专注深度建议能力  
+  ✅ **多轮对话**：100万轮次情景模拟，强化对话引导能力  
+  ✅ **统一格式**：标准化指令格式 `用户：{query}\n心理咨询师：{response}`
+
+- **学术支持**  
   📜 [EMNLP 2023 Findings论文](https://aclanthology.org/2023.findings-emnlp.83/)  
-- **资源获取**：  
+  *发表于自然语言处理顶级会议EMNLP*
+
+- **资源获取**  
   🔗 [ModelScope数据集](https://www.modelscope.cn/datasets/YIRONGCHEN/SoulChatCorpus)  
+  💻 [项目源码仓库](https://github.com/scutcyr/SoulChat)
 
 #### 💬ii. 对话数据集
 -  **对话数据集**：该数据集包含大量心理健康对话数据，旨在为模型提供心理咨询相关的对话训练数据。
