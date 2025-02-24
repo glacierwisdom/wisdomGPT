@@ -1,5 +1,8 @@
+<div align="center"> 
+
 # 冰智科技心理健康大语言模型项目
 
+</div>
 <!-- 项目徽标或图片 -->
 <p align="center">
   <a href="https://your-project-link.com">
