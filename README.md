@@ -22,7 +22,7 @@
   <a href="https://your-project-link.com/issues">提出建议</a>
 </p>
 
-### a. 数据集
+### 数据集
 #### i. 心理学伦理守则数据集
 - 🧠 **心理学伦理守则数据集**：该数据集包括心理学领域的伦理守则，帮助模型理解与伦理相关的咨询情境，提升其伦理判断能力。
 
@@ -57,7 +57,7 @@
 - 🧠 **Cultural Commonsense Knowledge for Intercultural Dialogues**，CIKM 2024，[[论文]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679768)，[[数据集]](https://mango.mpi-inf.mpg.de/)
   - 该数据集专注于跨文化对话中的常识性知识，旨在帮助模型更好地理解不同文化背景下的对话。
 
-### b. 开源模型/论文情况
+### 开源模型/论文情况
 #### i. 不同版本开源模型列表及其介绍
 
 <div align="center">
@@ -99,7 +99,7 @@
 </div>
 
 
-### c. CARE 方案 (文献综述与共享)
+### CARE 方案 (文献综述与共享)
 #### i. Compassion
 - 📚 文献 1：[文献标题](#)
 - 📚 文献 2：[文献标题](#)
@@ -116,11 +116,11 @@
 - 📚 文献 1：[文献标题](#)
 - 📚 文献 2：[文献标题](#)
 
-### d. 项目介绍 (Readme)
+### 项目介绍 (Readme)
 - 🌐 [项目主页](https://your-project-link.com)
 - 📄 [项目文档](./README.md)
 
-### e.最近更新
+### 最近更新
 
 - 【2025.02.16】**多智能体模拟心理咨询**
   - 🔬 论文 *A Simulated Well-being Ecosystem Featuring Positive Nudge Agents* 已投稿 2025 ICRA
@@ -149,7 +149,7 @@
   - 📑 详细文档：[评测标准文档](./docs/evaluation_criteria.md)
 
 
-### f. 项目概况
+### 项目概况
 - 🎯 **项目目标**：通过大语言模型，提供个性化的心理咨询解决方案，提升心理健康服务的质量和效果。
 - 🌟 **项目愿景**：创建一个更加智能、互动的心理健康支持系统，帮助用户有效应对心理问题。
 - 📚 **项目背景**：随着心理健康问题的日益普遍，传统的心理咨询方式面临资源有限、成本高昂等问题。本项目旨在利用人工智能技术，开发一个高效、可扩展的心理健康支持平台。
@@ -168,25 +168,25 @@
 - **数据标注与管理**：李明、王丽  
 - **测试与反馈**：刘洋、赵静  
 
-### g. 项目各模块说明
+### 项目各模块说明
 - 🗂️ **数据集**：详细介绍了项目中使用的心理健康对话数据集、情绪识别数据集等。
 - 💻 **开源模型**：提供了开源模型及改进版的列表，说明了每个版本的特点与应用场景。
 - 📑 **CARE 方案文献综述**：分享了与项目相关的心理健康方案文献和研究成果。
 
-### h. 官方交流群
+### 官方交流群
 - 💬 加入我们的官方交流群，获取更多项目信息和帮助！
 <p align="center">
   <img src="assets/official_group.png" alt="官方交流群" width="30%">
 </p>
 
-### i. 曾获奖项
+### 曾获奖项
 - 🏆 **奖项 1**：[奖项名称](#)
 - 🏆 **奖项 2**：[奖项名称](#)
 
-### j. 致谢
+### 致谢
 - wisdomGPT 由 **冰智科技** 发起，孵化于 **清华 i-Space**，并获得 **启迪种子基金** 支持。特别感谢 **清华大学** 给予的帮助！
 
-### k. Star History
+### Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=your-github-username/your-project-name&type=Date)](https://star-history.com/#your-github-username/your-project-name&Date)
 
 ---
