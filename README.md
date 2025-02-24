@@ -26,7 +26,7 @@
 ### 数据集
 #### 💞 i. 共情对话数据集
 **SoulChatCorpus**  
-![Dataset Preview](_DocumentRSS/SoulChatCorpus.png)  
+![Dataset Preview]<img src="_DocumentRSS/SoulChatCorpus.png" width="600">
 *图：SoulChatCorpus数据集示例*
 
 - **内容概述**  
