@@ -44,7 +44,6 @@
   📜 [EMNLP 2023 Findings论文](https://aclanthology.org/2023.findings-emnlp.83/)  
 - **资源获取**：  
   🔗 [ModelScope数据集](https://www.modelscope.cn/datasets/YIRONGCHEN/SoulChatCorpus)  
-  💻 [项目源码仓库](https://github.com/scutcyr/SoulChat)
 
 #### 💬ii. 对话数据集
 -  **对话数据集**：该数据集包含大量心理健康对话数据，旨在为模型提供心理咨询相关的对话训练数据。
