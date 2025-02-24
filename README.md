@@ -6,12 +6,9 @@
     <img src="_DocumentRSS/LOGO_GlacierWisdom.jpg" alt="Logo" width="50%">
   </a>
 </p>
-[![license](https://img.shields.io/badge/license-Apache%202.0-red.svg)](https://github.com/glacierwisdom/wisdomGPT/blob/main/LICENSE)
-[![python](https://img.shields.io/badge/python-3.8+-aff.svg)](https://github.com/glacierwisdom/wisdomGPT)
-[![contributors](https://img.shields.io/github/contributors/glacierwisdom/wisdomGPT?color=9ea)](https://github.com/glacierwisdom/wisdomGPT/graphs/contributors)
-[![commits](https://img.shields.io/github/commit-activity/m/glacierwisdom/wisdomGPT?color=3af)](https://github.com/glacierwisdom/wisdomGPT/commits)
-[![issues](https://img.shields.io/github/issues/glacierwisdom/wisdomGPT?color=9cc)](https://github.com/glacierwisdom/wisdomGPT/issues)
 [![stars](https://img.shields.io/github/stars/glacierwisdom/wisdomGPT?color=ccf)](https://github.com/glacierwisdom/wisdomGPT/stargazers)
+[![issues](https://img.shields.io/github/issues/glacierwisdom/wisdomGPT?color=9cc)](https://github.com/glacierwisdom/wisdomGPT/issues)
+[![commits](https://img.shields.io/github/commit-activity/m/glacierwisdom/wisdomGPT?color=3af)](https://github.com/glacierwisdom/wisdomGPT/commits)
 <!-- 项目简介 -->
 <h3 align="center">项目简介</h3>
 <p align="center">
