@@ -9,6 +9,15 @@
     <img src="_DocumentRSS/LOGO_GlacierWisdom.jpg" alt="Logo" width="50%">
   </a>
 </p>
+<p align="center">
+    <a href="./LICENSE"><img src="https://img.shields.io/badge/license-Apache%202-red.svg" alt="License"></a>
+    <a href="#"><img src="https://img.shields.io/badge/os-linux%2C%20win%2C%20mac-pink.svg" alt="Supported OS"></a>
+    <a href="#"><img src="https://img.shields.io/badge/python-3.8+-aff.svg" alt="Python Version"></a>
+    <a href="https://github.com/glacierwisdom/wisdomGPT/graphs/contributors"><img src="https://img.shields.io/github/contributors/glacierwisdom/wisdomGPT?color=9ea" alt="Contributors"></a>
+    <a href="https://github.com/glacierwisdom/wisdomGPT/commits/main"><img src="https://img.shields.io/github/commit-activity/m/glacierwisdom/wisdomGPT?color=3af" alt="Commit Activity"></a>
+    <a href="https://github.com/glacierwisdom/wisdomGPT/issues"><img src="https://img.shields.io/github/issues/glacierwisdom/wisdomGPT?color=9cc" alt="Open Issues"></a>
+    <a href="https://github.com/glacierwisdom/wisdomGPT/stargazers"><img src="https://img.shields.io/github/stars/glacierwisdom/wisdomGPT?color=ccf" alt="GitHub Stars"></a>
+</p>
 <!-- 项目简介 -->
 <h3 align="center">项目简介</h3>
 <p align="center">
