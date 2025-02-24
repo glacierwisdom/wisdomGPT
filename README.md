@@ -96,8 +96,8 @@
   🔗 [项目地址](https://github.com/facebookresearch/EmpatheticDialogues)  
   📂 [数据集下载](https://hf-mirror.com/datasets/facebook/empathetic_dialogues)
 
-  **CPsyCounD**  
-<img src="_DocumentRSS/CPsyCounD.png width="1200">
+  **CPsyCounD**
+<img src="_DocumentRSS/CPsyCounD.png,width="1200">
 - **内容概述**  
   包含 **3,134** 个多轮咨询对话，通过 Memo2Demo 方法生成，覆盖 **9** 个代表性主题和 **7** 种经典心理咨询流派。
 
