@@ -66,6 +66,35 @@
 - **资源获取**  
   🔗 [项目地址](https://github.com/google-research/google-research/tree/master/goemotions)  
   📂 [数据集下载](https://hf-mirror.com/datasets/google-research-datasets/go_emotions)
+
+  **EmpatheticDialogues**  
+<img src="https://via.placeholder.com/1200x400.png/CCCCCC?text=EmpatheticDialogues+Dataset+Preview" width="1200">
+- **内容概述**  
+  包含 **25,000+** 个人与人之间的对话，旨在引发共情反应。通过参与者分享个人故事并共情回应他人故事构建，情感丰富。
+
+- **核心价值**  
+  ✅ **共情对话**：专注于情感基础的个人情境，促进共情能力  
+  ✅ **高质量构建**：通过真实参与者分享与回应，确保对话自然性  
+  ✅ **情感丰富**：涵盖广泛情感场景，适合共情模型训练  
+  ✅ **大规模数据**：超过 25,000 条对话，提供充足训练样本
+
+- **数据统计**  
+  | 数据集 | 样本量 |  
+  |--------|--------|  
+  | 对话总数 | 25,000+ |  
+  | 情感类别 | 32 种 |  
+  | 平均对话轮次 | 4.2 轮 |  
+
+  情感类别示例：  
+  `愤怒、悲伤、恐惧、喜悦、惊讶、信任、厌恶、期待`
+
+- **学术支持**  
+  📜 [EmpatheticDialogues 论文](https://arxiv.org/abs/1811.00207)  
+  *发表于 arXiv，提供共情对话的理论基础与构建方法*
+
+- **资源获取**  
+  🔗 [项目地址](https://github.com/facebookresearch/EmpatheticDialogues)  
+  📂 [数据集下载](https://hf-mirror.com/datasets/facebook/empathetic_dialogues)
 #### 💬ii. 对话数据集
 -  **对话数据集**：该数据集包含大量心理健康对话数据，旨在为模型提供心理咨询相关的对话训练数据。
 
