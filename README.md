@@ -45,6 +45,27 @@
   🔗 [ModelScope数据集](https://www.modelscope.cn/datasets/YIRONGCHEN/SoulChatCorpus)  
   💻 [项目源码仓库](https://github.com/scutcyr/SoulChat)
 
+**GoEmotions**  
+<img src="https://via.placeholder.com/1200x400.png/CCCCCC?text=GoEmotions+Dataset+Preview" width="1200">
+- **内容概述**  
+  包含 **58,009** 条从 Reddit 中提取的评论，涵盖 **27** 种情感类别及中性标签，经过精心标注和过滤。
+
+- **核心价值**  
+  ✅ **情感多样性**：27 种情感类别 + 中性，覆盖广泛情绪表达  
+  ✅ **高质量标注**：基于人类注释，提供高一致性的情感标签  
+  ✅ **数据分割**：包含训练/测试/验证集，便于模型开发与评估  
+  ✅ **序列长度**：最大序列长度为 30，适合短文本情感分析任务
+
+  情感类别：  
+  `赞赏、娱乐、愤怒、烦恼、赞同、关心、困惑、好奇、渴望、失望、不赞成、厌恶、尴尬、兴奋、恐惧、感激、悲伤、喜悦、爱、紧张、乐观、骄傲、实现、解脱、悔恨、悲伤、惊讶`
+
+- **学术支持**  
+  📜 [GoEmotions 论文](https://arxiv.org/abs/2005.00547)  
+  *发表于 arXiv，提供细粒度情感分析的理论基础*
+
+- **资源获取**  
+  🔗 [项目地址](https://github.com/google-research/google-research/tree/master/goemotions)  
+  📂 [数据集下载](https://hf-mirror.com/datasets/google-research-datasets/go_emotions)
 #### 💬ii. 对话数据集
 -  **对话数据集**：该数据集包含大量心理健康对话数据，旨在为模型提供心理咨询相关的对话训练数据。
 
