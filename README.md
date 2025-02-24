@@ -6,9 +6,6 @@
     <img src="_DocumentRSS/LOGO_GlacierWisdom.jpg" alt="Logo" width="50%">
   </a>
 </p>
-[![stars](https://img.shields.io/github/stars/glacierwisdom/wisdomGPT?color=ccf)](https://github.com/glacierwisdom/wisdomGPT/stargazers)
-[![issues](https://img.shields.io/github/issues/glacierwisdom/wisdomGPT?color=9cc)](https://github.com/glacierwisdom/wisdomGPT/issues)
-[![commits](https://img.shields.io/github/commit-activity/m/glacierwisdom/wisdomGPT?color=3af)](https://github.com/glacierwisdom/wisdomGPT/commits)
 <!-- 项目简介 -->
 <h3 align="center">项目简介</h3>
 <p align="center">
