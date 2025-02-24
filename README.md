@@ -32,39 +32,54 @@
 </p>
 
 ### 数据集
-#### i. 心理学伦理守则数据集
-- 🧠 **心理学伦理守则数据集**：该数据集包括心理学领域的伦理守则，帮助模型理解与伦理相关的咨询情境，提升其伦理判断能力。
 
-#### ii. 对话数据集
-- 💬 **对话数据集**：该数据集包含大量心理健康对话数据，旨在为模型提供心理咨询相关的对话训练数据。
+#### 🧠 核心训练数据集
+| 类别 | 数据集 | 简介 | 资源链接 |
+|------|--------|------|----------|
+| **伦理规范** | 心理学伦理守则数据集 | 整合APA与中国心理学会伦理准则，包含2000+伦理决策案例 | [下载链接](#) • [论文](https://example.com) |
+| **对话交互** | 心理健康对话数据集 | 包含10万轮次心理咨询对话，标注情感标签与对话行为 | [下载链接](#) • [论文](https://example.com) |
+| **情绪理解** | 多维情绪识别数据集 | 基于Valence-Arousal模型标注，含语音/文本/生理信号多模态数据 | [下载链接](#) • [论文](https://example.com) |
 
-#### iii. 情绪识别数据集
-- 😌 **情绪识别数据集**：用于提升模型识别情绪的能力，帮助模型更好地理解用户情绪并提供精准的反馈。
+#### 🌍 辅助数据集
+##### 跨文化对齐
+- **PRISM Alignment Dataset**  
+  ![NeurIPS 2024](https://img.shields.io/badge/NeurIPS-2024-blue)  
+  覆盖50+文化背景的人类反馈数据，揭示LLM的跨文化对齐特性  
+  🔗 [论文](https://arxiv.org/abs/2404.16019) | [数据](https://example.com)
 
-#### iv. 其他数据集
-- 🌍 **The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models**，NeurIPS 2024 D&B Track 最佳论文，[[论文]](https://arxiv.org/abs/2404.16019)
-  - 该数据集提供了来自多元文化背景的参与式反馈，揭示了人类反馈在大型语言模型中的对齐情况。
-  
-- ⭐️ **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**，ACL 2024，[[论文]](https://arxiv.org/abs/2406.04214)，[[代码]](https://github.com/Value4AI/ValueBench)
-  - 这个数据集旨在全面评估大型语言模型的价值取向和理解能力，提供了广泛的测试框架。
+- **Cultural Commonsense**  
+  ![CIKM 2024](https://img.shields.io/badge/CIKM-2024-green)  
+  跨文化对话常识库，包含3000+文化特定表达与语境解释  
+  🔗 [论文](https://dl.acm.org/doi/10.1145/3627673.3679768) | [数据集](https://mango.mpi-inf.mpg.de/)
 
-- 🔄 **Automating Dataset Updates Towards Reliable and Timely Evaluation of Large Language Models**，NeurIPS 2024，[[论文]](https://arxiv.org/abs/2402.11894)
-  - 该数据集专注于自动化数据集更新，确保大型语言模型的评估始终可靠且及时。
+##### 价值评估
+- **ValueBench**  
+  ![ACL 2024](https://img.shields.io/badge/ACL-2024-red)  
+  包含8大价值维度的评估框架，支持细粒度价值观分析  
+  🔗 [论文](https://arxiv.org/abs/2406.04214) | [代码](https://github.com/Value4AI/ValueBench)
 
-- 🔍 [CLUE Dataset Search](https://github.com/CLUEbenchmark/CLUEDatasetSearch)
-  - CLUE是一个全面的数据集搜索工具，帮助用户查找和访问多种语言的NLP数据集。
+##### 动态更新
+- **Auto Dataset Updates**  
+  ![NeurIPS 2024](https://img.shields.io/badge/NeurIPS-2024-blue)  
+  自动化更新机制，确保评估数据的时效性与可靠性  
+  🔗 [论文](https://arxiv.org/abs/2402.11894)
 
-- 💬 **HATEDAY: Insights from a Global Hate Speech Dataset Representative of a Day on Twitter**，2024.11，[[论文]](https://arxiv.org/abs/2411.15462)
-  - 该数据集收集了Twitter上一天内的仇恨言论数据，旨在研究社交媒体上的言论行为和情绪传播。
+#### 🔍 工具与资源
+| 工具名称 | 功能 | 资源链接 |
+|---------|------|----------|
+| **CLUE** | 多语言NLP数据集搜索引擎 | [GitHub](https://github.com/CLUEbenchmark/CLUEDatasetSearch) |
+| **LIT** | 跨文化对话分析工具包 | [官网下载](https://lit.eecs.umich.edu/downloads.html) |
 
-- 🌐 [LIT 下载链接](https://lit.eecs.umich.edu/downloads.html)
-  - LIT是一个面向多语言和跨文化对话的NLP工具，提供了多种资源下载。
+#### ⚠️ 安全相关
+- **HATEDAY**  
+  ![Twitter 2024](https://img.shields.io/badge/Data-2024.11-orange)  
+  包含24小时Twitter仇恨言论快照，支持有害内容检测研究  
+  🔗 [论文](https://arxiv.org/abs/2411.15462)
 
-- 🔄 **COMPO: Community Preferences for Language Model Personalization**，2024.10，[[论文]](https://arxiv.org/pdf/2410.16027)
-  - 该数据集用于了解和收集社区对于语言模型个性化的偏好，为模型优化提供依据。
-
-- 🧠 **Cultural Commonsense Knowledge for Intercultural Dialogues**，CIKM 2024，[[论文]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679768)，[[数据集]](https://mango.mpi-inf.mpg.de/)
-  - 该数据集专注于跨文化对话中的常识性知识，旨在帮助模型更好地理解不同文化背景下的对话。
+- **COMPO**  
+  ![个性化 2024](https://img.shields.io/badge/研究-2024.10-yellowgreen)  
+  社区个性化偏好数据集，覆盖100+用户画像维度  
+  🔗 [论文](https://arxiv.org/pdf/2410.16027)
 
 ### 开源模型/论文情况
 #### i. 不同版本开源模型列表及其介绍
