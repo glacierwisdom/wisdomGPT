@@ -125,6 +125,7 @@
 - **资源获取**  
   🔗 [项目地址](https://github.com/CAS-SIAT-XinHai/CPsyCoun)  
   📂 [数据集下载](https://huggingface.co/datasets/CAS-SIAT-XinHai/CPsyCoun)
+
 #### 💬ii. 对话数据集
 -  **对话数据集**：该数据集包含大量心理健康对话数据，旨在为模型提供心理咨询相关的对话训练数据。
 
@@ -132,6 +133,18 @@
 -  **情绪识别数据集**：用于提升模型识别情绪的能力，帮助模型更好地理解用户情绪并提供精准的反馈。
 
 #### iv. 其他数据集
+**Chinese Psychological QA DataSet**  
+<img src="_DocumentRSS/" width="1200">
+- **内容概述**  
+  包含 **102,845** 条社区问答对，涵盖婚姻、情感、心理等多领域问题，提供真实心理咨询场景数据。
+
+- **核心价值**  
+  ✅ **真实场景**：来自社区的实际问答数据，反映真实心理问题  
+  ✅ **丰富主题**：涵盖婚姻、情感、心理等多领域问题  
+  ✅ **结构化数据**：包含问题、答案、统计信息等多维度字段  
+  ✅ **高质量标注**：问题标签与答案推荐标志，便于模型训练
+
+
 - 🌍 **The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models**，NeurIPS 2024 D&B Track 最佳论文，[[论文]](https://arxiv.org/abs/2404.16019)
   - 该数据集提供了来自多元文化背景的参与式反馈，揭示了人类反馈在大型语言模型中的对齐情况。
   
