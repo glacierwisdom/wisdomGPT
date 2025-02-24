@@ -26,8 +26,7 @@
 ### 数据集
 #### 💞 i. 共情对话数据集
 **SoulChatCorpus**  
-![Dataset Preview]<img src="_DocumentRSS/SoulChatCorpus.png" width="600">
-*图：SoulChatCorpus数据集示例*
+![Dataset Preview]<img src="_DocumentRSS/SoulChatCorpus.png" width="1200">
 
 - **内容概述**  
   包含120万混合单轮/多轮心理咨询对话，由GPT-4增强生成，覆盖广泛心理咨询场景。
