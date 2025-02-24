@@ -1,4 +1,4 @@
-<div align="center"> 
+![image](https://github.com/user-attachments/assets/710755d1-8c52-46d3-8e2a-a0d748e27482)<div align="center"> 
 
 # 冰智科技心理健康大语言模型项目
 
