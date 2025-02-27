@@ -52,7 +52,7 @@
   💻 [项目源码仓库](https://github.com/scutcyr/SoulChat)
   
 **GoEmotions**  
-<img src="https://via.placeholder.com/1200x400.png/CCCCCC?text=GoEmotions+Dataset+Preview" width="1200">
+<img src="_DocumentRSS/GoEmotions" width="1200">
 - **内容概述**  
   包含 **58,009** 条从 Reddit 中提取的评论，涵盖 **27** 种情感类别及中性标签，经过精心标注和过滤。
 
@@ -74,7 +74,7 @@
   📂 [数据集下载](https://hf-mirror.com/datasets/google-research-datasets/go_emotions)
 
   **EmpatheticDialogues**  
-<img src="https://via.placeholder.com/1200x400.png/CCCCCC?text=EmpatheticDialogues+Dataset+Preview" width="1200">
+<img src="_DocumentRSS/empathetic_dialogues" width="1200">
 - **内容概述**  
   包含 **25,000+** 个人与人之间的对话，旨在引发共情反应。通过参与者分享个人故事并共情回应他人故事构建，情感丰富。
 
