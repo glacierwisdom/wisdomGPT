@@ -52,7 +52,7 @@
   💻 [项目源码仓库](https://github.com/scutcyr/SoulChat)
   
 **GoEmotions**  
-<img src="_DocumentRSS/GoEmotions.png" width="1200">
+<img src="_DocumentRSS/GoEmotions.png" width="500">
 - **内容概述**  
   包含 **58,009** 条从 Reddit 中提取的评论，涵盖 **27** 种情感类别及中性标签，经过精心标注和过滤。
 
