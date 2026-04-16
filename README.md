@@ -19,7 +19,7 @@
     <a href="https://github.com/glacierwisdom/wisdomGPT/stargazers"><img src="https://img.shields.io/github/stars/glacierwisdom/wisdomGPT?color=ccf" alt="GitHub Stars"></a>
 </p>
 <!-- 项目简介 -->
-<h3 align="center">项目简介</h3>
+<h3 align="center">WisdomGPT项目简介</h3>
 <p align="center">
   本项目致力于基于大语言模型技术为心理健康领域提供创新解决方案，通过改进训练方法、使用特定数据集，提升大语言模型在心理咨询中的应用效果。
 </p>
